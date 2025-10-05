@@ -17,6 +17,8 @@
       "email": "filip.prober@condition.at"
     }
   ],
-  "require": {},
+  "require": {
+    "jarpack/other": "latest"
+  },
   "repositories": []
 }
